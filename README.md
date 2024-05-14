@@ -2,11 +2,14 @@
 
 Welcome to the repository for my participation in the 30 Days of Programming challenge hosted by Prime IT Club! This journey will be focused on learning the exciting world of Rust programming.
 
-**Challenge Objective:**
+<!-- [![](<../30-days-of-rust/Photos/repository-open-graph-template%20(1).png>) =100x20] -->
+<img src="../30-days-of-rust/Photos/repository-open-graph-template%20(1).png" alt="drawing" width="800"/>
+
+## Challenge Objective:
 
 Over the next 30 days, I'll be delving into the fundamentals and intricacies of Rust, following the official Rust Programming Language documentation as a guide: [https://doc.rust-lang.org/book/](https://doc.rust-lang.org/book/) (specifically, starting from Chapter 1, Section 3: Hello, Cargo!).
 
-**Expected Learning Outcomes:**
+## Expected Learning Outcomes:
 
 By the end of this challenge, I aim to achieve the following:
 
@@ -15,17 +18,17 @@ By the end of this challenge, I aim to achieve the following:
 - Explore various programming paradigms like ownership, borrowing, and lifetimes.
 - Build practical Rust applications and experiment with different libraries.
 
-**Daily Progress:**
+## Daily Progress:
 
 I'll be documenting my daily progress and learnings in the form of code snippets, explanations, and insights. This repository will serve as a log of my journey, allowing me to track my progress and revisit key concepts in the future.
 
-**Feel free to:**
+## Feel free to:
 
 - Follow along with me by cloning this repository and tackling the same exercises.
 - Share your experiences and ask questions in the comments section.
 - Let's create a supportive learning environment and empower each other on this Rust exploration!
 
-**Happy Learning!**
+Happy Learning!
 
 This README.md file provides a clear structure, outlines your goals, and encourages interaction with the community. Here are some additional tips for a polished README:
 
