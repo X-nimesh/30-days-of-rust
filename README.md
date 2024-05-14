@@ -3,7 +3,7 @@
 Welcome to the repository for my participation in the 30 Days of Programming challenge hosted by Prime IT Club! This journey will be focused on learning the exciting world of Rust programming.
 
 <!-- [![](<../30-days-of-rust/Photos/repository-open-graph-template%20(1).png>) =100x20] -->
-<img src="../30-days-of-rust/Photos/repository-open-graph-template%20(1).png" alt="drawing" width="800"/>
+<img src="https://raw.githubusercontent.com/X-nimesh/30-days-of-rust/main/Photos/repository-open-graph-template%20(1).png" alt="drawing" width="800"/>
 
 ## Challenge Objective:
 
