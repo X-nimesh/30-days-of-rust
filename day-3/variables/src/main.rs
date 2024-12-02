@@ -7,7 +7,7 @@ fn main() {
     let (x, y, z) = tup; //like destructuring in js
     let a = [1, 2, 3, 4, 5]; // same as tup but with same type
     let stringArray = ["dsa", "asd"]; // array of string
-    let x = x + 1;
+    x = x + 1;
 
     {
         let x = x * 2;
@@ -31,9 +31,9 @@ fn tuples() {
     let tup: (i32, f64, u8) = (500, 6.4, 1); //tup
     let (x, y, z) = tup; //like destructuring in js
 
-    let firstNumber = tup.0;
-    let secondNumber = tup.1;
-    let thirdNumber = tup.2;
+    let first_number = tup.0;
+    let second_number = tup.1;
+    let third_number = tup.2;
 }
 fn numeric_operation() {
     let sum = 5 + 10;
